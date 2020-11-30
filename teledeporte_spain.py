@@ -14,6 +14,7 @@ def run():
                     "golf","baloncesto","triatlon",
                     "gimnasia","tenis"]
     channel_name = "TeleDeporte"
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; Win64; x64)"} 
 
     today = datetime.now().date()
     date_list = [today + timedelta(days=x) for x in range(3)]
@@ -22,7 +23,7 @@ def run():
 
         url = "https://www.rtve.es/contenidos/sala-de-comunicacion/programacion-descargable/TELEDEPORTE_{}.html".format(date_url)
 
-        response = requests.get(url)
+        response = requests.get(url, headers = headers)
         soup = BeautifulSoup(response.text, 'html.parser')
 
         result_list = []
@@ -58,7 +59,7 @@ def run():
         path = "output\\teledeporte_spain"
         if not os.path.exists(path):
             os.makedirs(path)
-        print(df.head())
+#        print(df.head())
         df.to_csv('output\\teledeporte_spain\{}.csv'.format(date), index=False, header=True,encoding='utf-8-sig')
 
 if __name__ == "__main__":
