@@ -58,6 +58,7 @@ def run():
         path = "output\\teledeporte_spain"
         if not os.path.exists(path):
             os.makedirs(path)
+        print(df.head())
         df.to_csv('output\\teledeporte_spain\{}.csv'.format(date), index=False, header=True,encoding='utf-8-sig')
 
 if __name__ == "__main__":
