@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epg>
+  <broadcast id="10761618080">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>04:40</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>06:30</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Olympiacos FC (GRE) vs Omonia FC (CYP) (Playoffs, 1st Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10738962394">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>06:30</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>09:20</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW </title>
+    <text type="subtitle">[27.09]</text>
+    <text type="text">[Περ: Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10741245588">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>09:20</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>11:15</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Sheffield United vs Leeds United (Week 3)</text>
+    <text type="text">[Μπαλάφας Λάμπρος]</text>
+  </broadcast>
+  <broadcast id="10741245384">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>11:15</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>13:05</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Maccabi Tel-Aviv (ISR) vs FC Salzburg (AUT) (Playoffs, 1st Leg)</text>
+    <text type="text">[Δριτσάκος Πέτρος]</text>
+  </broadcast>
+  <broadcast id="10738962399">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>13:05</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>16:00</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW </title>
+    <text type="subtitle">[27.09]</text>
+    <text type="text">[Περ: Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10741245575">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>16:00</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>18:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Manchester City vs Leicester City (Week 3)</text>
+    <text type="text">[Σωτηρακόπουλος Χρήστος]</text>
+  </broadcast>
+  <broadcast id="10733447864">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>18:00</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>18:52</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Sunday Review 3w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10761446778">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>19:00</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>21:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Brighton &amp; Hove Albion vs Manchester United (Week 3)</text>
+    <text type="text">[Σπηλιόπουλος Δημήτρης]</text>
+  </broadcast>
+  <broadcast id="10733629263">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>21:00</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>23:00</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW [LIVE]</title>
+    <text type="subtitle">[28.09]</text>
+    <text type="text">[Περ: Θαναηλάκης Γιώργος, Αβραμίδης Στέφανος]</text>
+  </broadcast>
+  <broadcast id="10757783063">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>23:00</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>23:12</end_time>
+    <title>Show: Sports Classics:  Worldies </title>
+    <text type="subtitle">Ep. 10</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10757377888">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-28</start_date>
+    <start_time>23:30</start_time>
+    <end_date>2020-09-28</end_date>
+    <end_time>23:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 1st Leg 23.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10717374411">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>00:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>00:55</end_time>
+    <title>Show: Show: 2 Στο Πλεχτό </title>
+    <text type="subtitle">Επεισόδιο 2</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10738962360">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>00:55</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>03:00</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW </title>
+    <text type="subtitle">[28.09]</text>
+    <text type="text">[Περ: Θαναηλάκης Γιώργος, Αβραμίδης Στέφανος]</text>
+  </broadcast>
+  <broadcast id="10757377869">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>03:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>03:26</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 1st Leg 22.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10757377875">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>03:30</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>03:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 1st Leg 23.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245390">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">KAA Gent (BEL) vs FK Dynamo Kyiv (UKR) (Playoffs, 1st Leg)</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10738962378">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>06:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>08:05</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW </title>
+    <text type="subtitle">[28.09]</text>
+    <text type="text">[Περ: Θαναηλάκης Γιώργος, Αβραμίδης Στέφανος]</text>
+  </broadcast>
+  <broadcast id="10741245377">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>08:05</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>10:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FC Krasnodar (RUS) vs PAOK FC (GRE) (Playoffs, 1st Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10741245550">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>10:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>11:55</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Liverpool vs Arsenal (Week 3)</text>
+    <text type="text">[Τσόχος Μιχάλης]</text>
+  </broadcast>
+  <broadcast id="10738962386">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>11:55</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>14:00</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW </title>
+    <text type="subtitle">[28.09]</text>
+    <text type="text">[Περ: Θαναηλάκης Γιώργος, Αβραμίδης Στέφανος]</text>
+  </broadcast>
+  <broadcast id="10757605378">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>14:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>14:45</end_time>
+    <title>Show: Show:  Συνέντευξη Τύπου [LIVE]</title>
+    <text type="subtitle">PAOK FC (PAOK FC vs FC Krasnodar)</text>
+    <text type="text">[Περ: Γκουντούλας Κώστας]</text>
+  </broadcast>
+  <broadcast id="10741245371">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>15:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>17:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Olympiacos FC (GRE) vs Omonia FC (CYP) (Playoffs, 1st Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10717374417">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>17:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>18:00</end_time>
+    <title>Show: Show: 2 Στο Πλεχτό </title>
+    <text type="subtitle">Επεισόδιο 2</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10733447874">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>18:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>18:52</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Monday Review 3w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10738965242">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>19:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>19:26</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 1st Leg 22.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10738965247">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>19:30</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>19:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 1st Leg 23.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10738964897">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>20:00</start_time>
+    <end_date>2020-09-29</end_date>
+    <end_time>22:00</end_time>
+    <title>Show: Show: 2020-21 UEFA Champions League Show [LIVE]</title>
+    <text type="subtitle">[29.09]</text>
+    <text type="text">[Περ: Παπαγιάννη Αριάνα, Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10749729316">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-29</start_date>
+    <start_time>22:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>00:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League [LIVE]</title>
+    <text type="subtitle">Omonia FC (CYP) vs Olympiacos FC (GRE) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10738964902">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>00:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>01:30</end_time>
+    <title>Show: Show: 2020-21 UEFA Champions League Show [LIVE]</title>
+    <text type="subtitle">[29.09]</text>
+    <text type="text">[Περ: Παπαγιάννη Αριάνα, Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10741246628">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>01:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>01:56</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">World ep.8</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245506">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>02:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>04:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FK Dynamo Kyiv (UKR) vs KAA Gent (BEL) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10741245499">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Ferencvarosi TC (HUN) vs Molde FK (NOR)  (Playoffs, 2nd Leg)</text>
+    <text type="text">[Σπανόπουλος Μάνος]</text>
+  </broadcast>
+  <broadcast id="10741245790">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>06:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>07:00</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Monday Review 3w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246675">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>07:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>07:30</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">World ep.8</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245751">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>07:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>09:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">West Ham United vs Wolverhampton Wanderers (Week 3)</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10741245306">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>09:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>11:30</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Omonia FC (CYP) vs Olympiacos FC (GRE) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10741245722">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>11:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>13:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">West Bromwich Albion vs Chelsea (Week 3)</text>
+    <text type="text">[Τσόχος Μιχάλης]</text>
+  </broadcast>
+  <broadcast id="10741245312">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>13:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>15:30</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Ferencvarosi TC (HUN) vs Molde FK (NOR)  (Playoffs, 2nd Leg)</text>
+    <text type="text">[Σπανόπουλος Μάνος]</text>
+  </broadcast>
+  <broadcast id="10741245319">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>15:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>17:30</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FK Dynamo Kyiv (UKR) vs KAA Gent (BEL) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10741245293">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>17:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>19:30</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Omonia FC (CYP) vs Olympiacos FC (GRE) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10740191072">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>19:30</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>19:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 2nd Leg 29.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10738964907">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>20:00</start_time>
+    <end_date>2020-09-30</end_date>
+    <end_time>22:00</end_time>
+    <title>Show: Show: 2020-21 UEFA Champions League Show [LIVE]</title>
+    <text type="subtitle">[30.09]</text>
+    <text type="text">[Περ: Παπαγιάννη Αριάνα, Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10749729322">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-09-30</start_date>
+    <start_time>22:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>00:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League [LIVE]</title>
+    <text type="subtitle">PAOK FC (GRE) vs FC Krasnodar (RUS) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10738964912">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>00:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>01:30</end_time>
+    <title>Show: Show: 2020-21 UEFA Champions League Show [LIVE]</title>
+    <text type="subtitle">[30.09]</text>
+    <text type="text">[Περ: Παπαγιάννη Αριάνα, Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10741245766">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>01:30</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>01:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 2nd Leg 29.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245518">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>02:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>04:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FC Midtjylland (DEN) vs SK Slavia Praha (CZE) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Πάνος Αποστόλης]</text>
+  </broadcast>
+  <broadcast id="10741245512">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FC Salzburg (AUT) vs Maccabi Tel-Aviv (ISR) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Δριτσάκος Πέτρος]</text>
+  </broadcast>
+  <broadcast id="10741245900">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>06:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>06:30</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 2nd Leg 29.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245758">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>06:30</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>08:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Burnley vs Southampton (Week 3)</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10741245337">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>08:30</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>10:30</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">PAOK FC (GRE) vs FC Krasnodar (RUS) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10741245774">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>10:30</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>12:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Brighton &amp; Hove Albion vs Manchester United (Week 3)</text>
+    <text type="text">[Σπηλιόπουλος Δημήτρης]</text>
+  </broadcast>
+  <broadcast id="10761629123">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>12:30</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>13:00</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 2nd Leg 29.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245351">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>13:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>15:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FC Salzburg (AUT) vs Maccabi Tel-Aviv (ISR) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Δριτσάκος Πέτρος]</text>
+  </broadcast>
+  <broadcast id="10741245329">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>15:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>17:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">PAOK FC (GRE) vs FC Krasnodar (RUS) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10750090696">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>17:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>18:00</end_time>
+    <title>Show: Show: 2020-21 Κλήρωση [LIVE]</title>
+    <text type="subtitle">UCL Group Stage Draw Pre Show</text>
+    <text type="text">[Περ: Παπαγιάννη Αριάνα, Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10741244698">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>18:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>19:35</end_time>
+    <title>Show: Show: 2020-21 Κλήρωση [LIVE]</title>
+    <text type="subtitle">UCL Group Stage</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10750090706">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>19:35</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>20:30</end_time>
+    <title>Show: Show: 2020-21 Κλήρωση [LIVE]</title>
+    <text type="subtitle">UCL Group Stage Draw Post Show</text>
+    <text type="text">[Περ: Παπαγιάννη Αριάνα, Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10740191081">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>20:30</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>20:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Matchnight Highlights Playoffs 2nd Leg 30.09</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10749896845">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>21:00</start_time>
+    <end_date>2020-10-01</end_date>
+    <end_time>23:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">PAOK FC (GRE) vs FC Krasnodar (RUS) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10749896851">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-01</start_date>
+    <start_time>23:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>01:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Omonia FC (CYP) vs Olympiacos FC (GRE) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10741246117">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>01:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>03:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">West Bromwich Albion vs Chelsea (Week 3)</text>
+    <text type="text">[Τσόχος Μιχάλης]</text>
+  </broadcast>
+  <broadcast id="10741246134">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>03:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>04:00</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Monday Review 3w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741245935">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Crystal Palace vs Everton (Week 3)</text>
+    <text type="text">[Ψάρρας Κώστας]</text>
+  </broadcast>
+  <broadcast id="10741245986">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>06:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>08:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Sheffield United vs Leeds United (Week 3)</text>
+    <text type="text">[Μπαλάφας Λάμπρος]</text>
+  </broadcast>
+  <broadcast id="10741245992">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>08:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>10:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Fulham vs Aston Villa (Week 3)</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10741246101">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>10:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>12:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Tottenham Hotspur vs Newcastle United (Week 3)</text>
+    <text type="text">[Δριτσάκος Πέτρος]</text>
+  </broadcast>
+  <broadcast id="10741246668">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>12:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>12:52</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Monday Review 3w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10750090714">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>13:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>14:00</end_time>
+    <title>Show: Show: 2020-21 Κλήρωση [LIVE]</title>
+    <text type="subtitle">UEL Group Stage Draw Pre Show</text>
+    <text type="text">[Περ: Αβραμίδης Στέφανος, Κωσταβάρας Σωτήρης]</text>
+  </broadcast>
+  <broadcast id="10741244710">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>14:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>14:50</end_time>
+    <title>Show: Show: 2020-21 Κλήρωση [LIVE]</title>
+    <text type="subtitle">UEL Group Stage</text>
+    <text type="text">[Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10750090725">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>14:50</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>15:25</end_time>
+    <title>Show: Show: 2020-21 Κλήρωση [LIVE]</title>
+    <text type="subtitle">UEL Group Stage Draw Post Show</text>
+    <text type="text">[Περ: Αβραμίδης Στέφανος, Κωσταβάρας Σωτήρης]</text>
+  </broadcast>
+  <broadcast id="10741246125">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>15:30</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>17:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Brighton &amp; Hove Albion vs Manchester United (Week 3)</text>
+    <text type="text">[Σπηλιόπουλος Δημήτρης]</text>
+  </broadcast>
+  <broadcast id="10741245979">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>17:30</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>19:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Manchester City vs Leicester City (Week 3)</text>
+    <text type="text">[Σωτηρακόπουλος Χρήστος]</text>
+  </broadcast>
+  <broadcast id="10740191007">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>19:30</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>19:56</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">World ep.9</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10717374423">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>20:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>21:00</end_time>
+    <title>Show: Show: 2 Στο Πλεχτό </title>
+    <text type="subtitle">Επεισόδιο 2</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246317">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>21:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>21:52</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Monday Review 3w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246330">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>22:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>22:26</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">World ep.9</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10743500887">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>22:30</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>23:00</end_time>
+    <title>Show: Show: 2019-20 Game R1 </title>
+    <text type="subtitle">Ep. 34</text>
+    <text type="text">[Περ: Παπαπαύλου Παύλος, Ντιλενιάν Κορίνα]</text>
+  </broadcast>
+  <broadcast id="10740191092">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>23:00</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>23:26</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Magazine Programme ep.01</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10740191018">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-02</start_date>
+    <start_time>23:30</start_time>
+    <end_date>2020-10-02</end_date>
+    <end_time>23:56</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Match Pack 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10740191030">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>00:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>00:26</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Preview 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10743500896">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>00:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>00:55</end_time>
+    <title>Show: Show: 2019-20 Game R1 </title>
+    <text type="subtitle">Ep. 34</text>
+    <text type="text">[Περ: Παπαπαύλου Παύλος, Ντιλενιάν Κορίνα]</text>
+  </broadcast>
+  <broadcast id="10741246348">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>01:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>03:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Omonia FC (CYP) vs Olympiacos FC (GRE) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Θαναηλάκης Γιώργος]</text>
+  </broadcast>
+  <broadcast id="10741246301">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>03:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>03:26</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Match Pack 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246307">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>03:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>03:56</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Preview 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246383">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">PAOK FC (GRE) vs FC Krasnodar (RUS) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10741246183">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>06:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>08:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Manchester City vs Leicester City (Week 3)</text>
+    <text type="text">[Σωτηρακόπουλος Χρήστος]</text>
+  </broadcast>
+  <broadcast id="10741246165">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>08:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>08:26</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Match Pack 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246171">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>08:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>08:56</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Preview 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246141">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>09:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>11:00</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Liverpool vs Arsenal (Week 3)</text>
+    <text type="text">[Τσόχος Μιχάλης]</text>
+  </broadcast>
+  <broadcast id="10743500945">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>11:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>11:25</end_time>
+    <title>Show: Show: 2019-20 Game R1 </title>
+    <text type="subtitle">Ep. 34</text>
+    <text type="text">[Περ: Παπαπαύλου Παύλος, Ντιλενιάν Κορίνα]</text>
+  </broadcast>
+  <broadcast id="10741246851">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>11:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>11:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Magazine Programme ep.01</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246148">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>12:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>12:26</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Match Pack 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246154">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>12:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>12:56</end_time>
+    <title>Show: Highlights: 2020-21 PL </title>
+    <text type="subtitle">Preview 4w</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10738964981">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>13:00</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>14:30</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW [LIVE]</title>
+    <text type="subtitle">[03.10]</text>
+    <text type="text">[Περ: Μπαλάφας Λάμπρος]</text>
+  </broadcast>
+  <broadcast id="10757372976">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>14:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>16:30</end_time>
+    <title>Game: Football: 2020-21 Premier League [LIVE]</title>
+    <text type="subtitle">Chelsea vs Crystal Palace (Week 4)</text>
+    <text type="text">[Μάλαμας Πάνος]</text>
+  </broadcast>
+  <broadcast id="10738965029">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>16:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>19:30</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW Live Action [LIVE]</title>
+    <text type="subtitle">[03.10]</text>
+    <text type="text">[Περ: Χριστοφοράκης Τόλης]</text>
+  </broadcast>
+  <broadcast id="10757373185">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>19:30</start_time>
+    <end_date>2020-10-03</end_date>
+    <end_time>21:30</end_time>
+    <title>Game: Football: 2020-21 Premier League [LIVE]</title>
+    <text type="subtitle">Leeds United vs Manchester City (Week 4)</text>
+    <text type="text">[Τσόχος Μιχάλης]</text>
+  </broadcast>
+  <broadcast id="10757373190">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-03</start_date>
+    <start_time>22:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>00:00</end_time>
+    <title>Game: Football: 2020-21 Premier League [LIVE]</title>
+    <text type="subtitle">Newcastle United vs Burnley (Week 4)</text>
+    <text type="text">[Αβραμίδης Στέφανος]</text>
+  </broadcast>
+  <broadcast id="10743500904">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>00:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>00:25</end_time>
+    <title>Show: Show: 2019-20 Game R1 </title>
+    <text type="subtitle">Ep. 34</text>
+    <text type="text">[Περ: Παπαπαύλου Παύλος, Ντιλενιάν Κορίνα]</text>
+  </broadcast>
+  <broadcast id="10740192104">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>00:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>00:56</end_time>
+    <title>Show: Highlights: 2019-20 European Qualifiers </title>
+    <text type="subtitle">Playoffs Preview</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10740191815">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>01:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>01:26</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Nations League </title>
+    <text type="subtitle">MD3 &amp; MD4 Preview</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10757373612">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>01:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>03:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Everton vs Brighton &amp; Hove Albion (Week 4)</text>
+    <text type="text">[Μπαλάφας Λάμπρος]</text>
+  </broadcast>
+  <broadcast id="10741246582">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>03:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>03:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Nations League </title>
+    <text type="subtitle">MD3 &amp; MD4 Preview</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246375">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Ferencvarosi TC (HUN) vs Molde FK (NOR)  (Playoffs, 2nd Leg)</text>
+    <text type="text">[Σπανόπουλος Μάνος]</text>
+  </broadcast>
+  <broadcast id="10741246500">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>06:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>08:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">PAOK FC (GRE) vs FC Krasnodar (RUS) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Παλομπαρίνι Αντρέα]</text>
+  </broadcast>
+  <broadcast id="10741246879">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>08:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>08:26</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Nations League </title>
+    <text type="subtitle">MD3 &amp; MD4 Preview</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246885">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>08:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>08:56</end_time>
+    <title>Show: Highlights: 2019-20 European Qualifiers </title>
+    <text type="subtitle">Playoffs Preview</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10741246872">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>09:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>09:26</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Magazine Programme ep.01</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10757373627">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>09:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>11:30</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Newcastle United vs Burnley (Week 4)</text>
+    <text type="text">[Αβραμίδης Στέφανος]</text>
+  </broadcast>
+  <broadcast id="10757373618">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>11:25</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>13:25</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Chelsea vs Crystal Palace (Week 4)</text>
+    <text type="text">[Μάλαμας Πάνος]</text>
+  </broadcast>
+  <broadcast id="10743500910">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>13:25</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>13:50</end_time>
+    <title>Show: Show: 2019-20 Game R1 </title>
+    <text type="subtitle">Ep. 34</text>
+    <text type="text">[Περ: Παπαπαύλου Παύλος, Ντιλενιάν Κορίνα]</text>
+  </broadcast>
+  <broadcast id="10757373607">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>13:55</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>15:55</end_time>
+    <title>Game: Football: 2020-21 Premier League </title>
+    <text type="subtitle">Leeds United vs Manchester City (Week 4)</text>
+    <text type="text">[Τσόχος Μιχάλης]</text>
+  </broadcast>
+  <broadcast id="10757373339">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>16:00</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>18:00</end_time>
+    <title>Game: Football: 2020-21 Premier League [LIVE]</title>
+    <text type="subtitle">Arsenal vs Sheffield United (Week 4)</text>
+    <text type="text">[Ψάρρας Κώστας]</text>
+  </broadcast>
+  <broadcast id="10757373344">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>18:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>20:30</end_time>
+    <title>Game: Football: 2020-21 Premier League [LIVE]</title>
+    <text type="subtitle">Manchester United vs Tottenham Hotspur (Week 4)</text>
+    <text type="text">[Δριτσάκος Πέτρος]</text>
+  </broadcast>
+  <broadcast id="10763723146">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>20:30</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>20:56</end_time>
+    <title>Show: Highlights: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">Magazine Programme ep.01</text>
+    <text type="text"/>
+  </broadcast>
+  <broadcast id="10763723131">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>21:15</start_time>
+    <end_date>2020-10-04</end_date>
+    <end_time>23:15</end_time>
+    <title>Game: Football: 2020-21 Premier League [LIVE]</title>
+    <text type="subtitle">Aston Villa vs Liverpool (Week 4)</text>
+    <text type="text">[Σωτηρακόπουλος Χρήστος]</text>
+  </broadcast>
+  <broadcast id="10738965005">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-04</start_date>
+    <start_time>23:15</start_time>
+    <end_date>2020-10-05</end_date>
+    <end_time>01:30</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW [LIVE]</title>
+    <text type="subtitle">[04.10]</text>
+    <text type="text">[Περ: Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10738965263">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-05</start_date>
+    <start_time>01:30</start_time>
+    <end_date>2020-10-05</end_date>
+    <end_time>04:00</end_time>
+    <title>Show: Show: 2020-21 SPORTSHOW </title>
+    <text type="subtitle">[04.10]</text>
+    <text type="text">[Περ: Τσόχος Μιχάλης, Σαμπράκος Βασίλης]</text>
+  </broadcast>
+  <broadcast id="10741246362">
+    <status>update</status>
+    <station language="en" id="OTE1HD">COSMOTE Sport1HD</station>
+    <start_date>2020-10-05</start_date>
+    <start_time>04:00</start_time>
+    <end_date>2020-10-05</end_date>
+    <end_time>06:00</end_time>
+    <title>Game: Football: 2020-21 UEFA Champions League </title>
+    <text type="subtitle">FC Salzburg (AUT) vs Maccabi Tel-Aviv (ISR) (Playoffs, 2nd Leg)</text>
+    <text type="text">[Δριτσάκος Πέτρος]</text>
+  </broadcast>
+</epg>
