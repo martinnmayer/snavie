@@ -56,11 +56,12 @@ def run():
         for index in df.index:
             if index < index_length -1:
                 df.at[index, 'end_time_utc'] = df.loc[index+1]["start_time_utc"]
-        path = "output\\teledeporte_spain"
+        path = os.path.join("output","teledeporte_spain")
         if not os.path.exists(path):
             os.makedirs(path)
 #        print(df.head())
-        df.to_csv('output\\teledeporte_spain\{}.csv'.format(date), index=False, header=True,encoding='utf-8-sig')
+        file_name = "{}.csv".format(date)
+        df.to_csv(os.path.join(path,file_name), index=False, header=True,encoding='utf-8-sig')
 
 if __name__ == "__main__":
     run()

@@ -53,10 +53,11 @@ def get_programme_list(target_date,channel):
                 None,None,None
             ])
         df = pd.DataFrame(result_list)
-        path = "output\\tv2"
+        path = os.path.join("output","tv2")
         if not os.path.exists(path):
             os.makedirs(path)
-        df.to_csv('output\\tv2\{}_{}.csv'.format(channel_name,target_date), index=False, header=False,encoding='utf-8-sig')
+        file_name = "{}_{}.csv".format(channel_name,target_date)
+        df.to_csv(os.path.join(path,file_name), index=False, header=False,encoding='utf-8-sig')
 
 def run():
     today = datetime.today()

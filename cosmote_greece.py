@@ -42,10 +42,12 @@ def run(date_data="2020_09_28"):
         
     my_df = pd.DataFrame(result_list,columns=columns)
 
-    path = "output\cosmote_greece"
+    path = os.path.join("output","cosmote_greece")
     if not os.path.exists(path):
+
         os.makedirs(path)
-    my_df.to_csv('output\cosmote_greece\{}.csv'.format(date_data), index=False, header=True,encoding='utf-8-sig')
+    file_name = date_data + ".csv"
+    my_df.to_csv(os.path.join(path,file_name), index=False, header=True,encoding='utf-8-sig')
     my_df.head(40)
 
 

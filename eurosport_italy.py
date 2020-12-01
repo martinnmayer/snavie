@@ -74,11 +74,12 @@ def run():
         driver.find_element_by_xpath('//button[@data-testid="next-button"]').click()
         time.sleep(3)
     my_df = pd.DataFrame(result_list)
-    path = "output/eurosport_italy"
+    
+    path = os.path.join("output","eurosport_italy")
     if not os.path.exists(path):
         os.makedirs(path)
-
-    my_df.to_csv('output/eurosport_italy/{}.csv'.format(datetime.now().date()), index=False, header=False,encoding='utf-8-sig')
+    file_name = "{}.csv".format(datetime.now().date())
+    my_df.to_csv(os.path.join(path,file_name), index=False, header=False,encoding='utf-8-sig')
     driver.close()
 
 
